@@ -63,6 +63,7 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 </p>
 
+<a href="https://app.daily.dev/garbujap"><img src="https://api.daily.dev/devcards/27356a4932ca446e86094af7dec71735.png?r=t9a" width="400" alt="Prashant Garbuja's Dev Card"/></a>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prashantgarbuja&layout=compact&hide_border=true&theme=darcula&bg_color=00000000)
 
 ## Developer Quote of the Day
