@@ -5,7 +5,7 @@
   </a> 
   -->
    <a href="https://app.daily.dev/garbujap">
-     <img src="https://api.daily.dev/devcards/27356a4932ca446e86094af7dec71735.png?r=t9a" width="400" alt="Prashant Garbuja's Dev Card"/>
+     <img src="https://github.com/prashantgarbuja/prashantgarbuja/blob/main/devcard.svg" width="400" alt="Prashant Garbuja's Dev Card"/>
    </a>
 </div>
 
