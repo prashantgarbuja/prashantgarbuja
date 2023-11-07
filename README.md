@@ -71,7 +71,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prashantgarbuja&layout=compact&hide_border=true&theme=darcula&bg_color=00000000)
 
-## Developer Quote of the Day
 <div align="center">
-![Random Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)
+<h2>Developer Quote of the Day</h2>
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&border=true" alt="Random Quotes">
 </div>
