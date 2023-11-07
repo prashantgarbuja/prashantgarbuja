@@ -19,6 +19,7 @@
 
 - 🔭 I’m currently working on **Java Based Projects**.
 - 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**.
+- 🎨 I'm getting comfortable with Front-end technology like **React**.
 - 💬 Ask me about **Java and Spring Framework**.
 - 📫 How to reach me: **prashantmaha2@gmail.com**
 <!--
